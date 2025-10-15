@@ -25,12 +25,27 @@ Seeking opportunities in Data Science / Analytics roles.
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 
 ---
+## Projects
+
+### Bank Loan Dashboard 1
+Interactive Excel dashboard for tracking loans, defaults, and recovery with charts and KPIs.  
+[View Project on GitHub](https://github.com/sreenivas0311/Bank_loan_Dashboard)
+
+### Bank Loan Dashboard 2
+Interactive Excel dashboard for tracking loans, defaults, and recovery with charts and KPIs.  
+[View Project on GitHub](https://github.com/sreenivas0311/Bank_loan_Dashboard)
+
+### Bank Loan Dashboard 3
+Interactive Excel dashboard for tracking loans, defaults, and recovery with charts and KPIs.  
+[View Project on GitHub](https://github.com/sreenivas0311/Bank_loan_Dashboard)
+
 
 ## 📫 Contact
 
 - **Email:** [contactsreenivas0311@gmail.com](mailto:contactsreenivas0311@gmail.com)  
 - **GitHub:** [https://github.com/sreenivas0311](https://github.com/sreenivas0311)  
-- **LinkedIn:** Add your LinkedIn link here  
+--**LinkedIn:** [https://www.linkedin.com/in/sreenivas0311/](https://www.linkedin.com/in/sreenivas0311/)
+
 
 ---
 
