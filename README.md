@@ -42,9 +42,11 @@ Interactive Power BI dashboard for Airbnb dataset.
 
 ## 📫 Contact
 
-- **Email:** [contactsreenivas0311@gmail.com](mailto:contactsreenivas0311@gmail.com)  
-- **GitHub:** [https://github.com/sreenivas0311](https://github.com/sreenivas0311)  
-- **LinkedIn:** [https://www.linkedin.com/in/sreenivas0311/](https://www.linkedin.com/in/sreenivas0311/)
+## 📫 Contact
+
+- ![Email](https://img.shields.io/badge/Email-contactsreenivas0311@gmail.com-blue?style=flat&logo=gmail&logoColor=white)  
+- [![GitHub](https://img.shields.io/badge/GitHub-sreenivas0311-black?style=flat&logo=github&logoColor=white)](https://github.com/sreenivas0311)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-D_Sreenivasulu_Reddy-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenivas0311/)
 
 
 ---
