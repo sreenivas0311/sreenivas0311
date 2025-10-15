@@ -40,7 +40,6 @@ Interactive Power BI dashboard for Airbnb dataset.
 [🔗 View Project on GitHub](https://github.com/sreenivas0311/airbnb_dashboard)
 
 
-## 📫 Contact
 
 ## 📫 Contact
 
