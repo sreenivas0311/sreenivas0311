@@ -27,17 +27,17 @@ Seeking opportunities in Data Science / Analytics roles.
 ---
 ## Projects
 
-### Bank Loan Dashboard
+### 🏦 Bank Loan Dashboard
 Interactive Excel dashboard for tracking loans, defaults, and recovery with charts and KPIs.  
-[View Project on GitHub](https://github.com/sreenivas0311/Bank_loan_Dashboard)
+[🔗 View Project on GitHub](https://github.com/sreenivas0311/Bank_loan_Dashboard)
 
-### Movie Dashboard 
-Interactive Power Bi dashboard for tracking finacial ,Audience rating,genre analysis with charts and KPIs.  
-[View Project on GitHub](https://github.com/sreenivas0311/Movie_Dashboard_powerbi)
+### 🎬 Movie Dashboard 
+Interactive Power BI dashboard for tracking financial, audience rating, genre analysis with charts and KPIs.  
+[🔗 View Project on GitHub](https://github.com/sreenivas0311/Movie_Dashboard_powerbi)
 
-### Bank Loan Dashboard 3
-Interactive Power Bi dashboard for AirBnb dataset.  
-[View Project on GitHub](https://github.com/sreenivas0311/airbnb_dashboard)
+### 🏠 Airbnb Dashboard
+Interactive Power BI dashboard for Airbnb dataset.  
+[🔗 View Project on GitHub](https://github.com/sreenivas0311/airbnb_dashboard)
 
 
 ## 📫 Contact
