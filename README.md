@@ -1,5 +1,7 @@
 # D Sreenivasulu Reddy
 
+<img width="1600" height="419" alt="image" src="https://github.com/user-attachments/assets/dd26736b-acf6-482c-9274-5685fd725110" />
+
 ---
 
 ## 👋 About Me
@@ -46,6 +48,8 @@ Interactive Power BI dashboard for Airbnb dataset.
 - ![Email](https://img.shields.io/badge/Email-contactsreenivas0311@gmail.com-blue?style=flat&logo=gmail&logoColor=white)  
 - [![GitHub](https://img.shields.io/badge/GitHub-sreenivas0311-black?style=flat&logo=github&logoColor=white)](https://github.com/sreenivas0311)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-D_Sreenivasulu_Reddy-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenivas0311/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=flat&logo=github&logoColor=white)](https://sreenivas0311.github.io/sreenivas/)
+
 
 
 ---
