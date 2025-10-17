@@ -27,6 +27,16 @@ Seeking opportunities in Data Science / Analytics roles.
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 
 ---
+## 📫 Contact
+
+- ![Email](https://img.shields.io/badge/Email-contactsreenivas0311@gmail.com-blue?style=flat&logo=gmail&logoColor=white)  
+- [![GitHub](https://img.shields.io/badge/GitHub-sreenivas0311-black?style=flat&logo=github&logoColor=white)](https://github.com/sreenivas0311)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-D_Sreenivasulu_Reddy-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenivas0311/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=flat&logo=github&logoColor=white)](https://sreenivas0311.github.io/sreenivas/)
+
+
+
+---
 ## Projects
 
 ### 🏦 Bank Loan Dashboard
@@ -43,15 +53,6 @@ Interactive Power BI dashboard for Airbnb dataset.
 
 
 
-## 📫 Contact
 
-- ![Email](https://img.shields.io/badge/Email-contactsreenivas0311@gmail.com-blue?style=flat&logo=gmail&logoColor=white)  
-- [![GitHub](https://img.shields.io/badge/GitHub-sreenivas0311-black?style=flat&logo=github&logoColor=white)](https://github.com/sreenivas0311)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-D_Sreenivasulu_Reddy-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenivas0311/)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=flat&logo=github&logoColor=white)](https://sreenivas0311.github.io/sreenivas/)
-
-
-
----
 
 > ⚡ I love solving business problems and uncovering hidden data stories.
