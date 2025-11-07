@@ -10,7 +10,7 @@ I am an aspiring Data Analyst and Data Scientist with a strong foundation in SQL
 I enjoy analyzing data to uncover meaningful insights and support decision-making.  
 Skilled in Excel and Power BI for creating interactive reports and visualizations.  
 Curious, detail-oriented, and motivated to grow in the fields of data analytics and data science.  
-Seeking opportunities in Data Science / Analytics roles.
+Seeking opportunities in Data Science / Analytics role.
 
 ---
 
